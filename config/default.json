@@ -1,0 +1,8 @@
+{
+  "session": {
+    "password": "password"
+  },
+  "db": {
+    "logging": true
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "session": {
+    "password": "password"
+  },
+  "db": {
+    "database": "hapi_template_test",
+    "host": "localhost",
+    "logging": false
+  }
+}

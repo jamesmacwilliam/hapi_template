@@ -1,0 +1,3 @@
+--timeout 2s
+--require coffee-script/register
+--compilers coffee:coffee-script/register
